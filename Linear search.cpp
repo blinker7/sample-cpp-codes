@@ -30,7 +30,7 @@ int main()
 	}
 	else
 	{
-		cout<<num<<" found at position "<<pos;
+		cout<<num<<"Number Found at position "<<pos;
 	}
 return 0;
 }
